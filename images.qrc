@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fon2.jpg</file>
+        <file>фон3.jpg</file>
+        <file>фон2.jpg</file>
+        <file>фон1.jpg</file>
+        <file>МП33.png</file>
+        <file>МП22.png</file>
+        <file>МП11.png</file>
+        <file>МП3.png</file>
+        <file>МП2.png</file>
+        <file>МП1.png</file>
+        <file>МОПС2.png</file>
+        <file>МОПС1.png</file>
+        <file>иконка.png</file>
+        <file>exit2.png</file>
+        <file>exit1.png</file>
+    </qresource>
+</RCC>
